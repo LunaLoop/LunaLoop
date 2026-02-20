@@ -1,4 +1,4 @@
-👋 Hello, I'm @LunaLoop
+👋 Hello, I'm Diamara Jakeline Muñoz Vargas
 - 👀 I am interested in learning new programming things
 - 🌱 I am currently learning web development
 - 💞️ I am looking to collaborate on reporting, database, c# and javascript projects
